@@ -24,7 +24,7 @@ This repository from [reinforcement_learning_from_scratch](https://github.com/Bi
 1. clone the repo into your local machine
 ```commandline
 cd path/to/your/workspace
-git clone https://github.com/Bingzw/RLFoundations.git
+git clone https://github.com/AbhinandanMandal/RLFoundations.git
 ```
 2. create a virtual environment
 ```commandline
