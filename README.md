@@ -1,4 +1,7 @@
 # Reinforcement Learning Foundations (RLFoundations)
+<img width="1448" height="1086" alt="ChatGPT Image Jun 5, 2026, 01_00_09 AM" src="https://github.com/user-attachments/assets/a92dbad8-b9f7-470a-9bf8-98fb44c5351f" />
+
+
 ## Introduction
 This repository from [reinforcement_learning_from_scratch](https://github.com/Bingzw/reinforcement_learning_from_scratch) contains the implementation of reinforcement learning algorithms from scratch. The purpose of this repository is to understand the reinforcement learning algorithms in depth. The repository is divided into the following topics:
  - Multi-Armed Bandit: This topic contains the implementation of epsilon-greedy, UCB, and Thompson samping algorithms. 
