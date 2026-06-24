@@ -1,6 +1,6 @@
 # Reinforcement Learning Foundations (RLFoundations)
 
-- [ ] **TODO: Public this repository after completing Huggingface's RL course**
+- [ ] **Upcoming: Huggingface's RL course addition**
 <img width="1448" height="1086" alt="ChatGPT Image Jun 5, 2026, 01_00_09 AM" src="https://github.com/user-attachments/assets/a92dbad8-b9f7-470a-9bf8-98fb44c5351f" />
 
 
