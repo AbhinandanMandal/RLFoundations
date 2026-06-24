@@ -50,7 +50,7 @@ python train.py
 - [EasyRL](https://github.com/datawhalechina/easy-rl)
 - [Hands-On-RL](https://github.com/boyu-ai/Hands-on-RL)
 - [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
-
+- [Reinforcement Learning by Zac](https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7)
 
 
 
